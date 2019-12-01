@@ -2,10 +2,10 @@
   "name": "simple-slack-reporter",
   "version": "1.0.6",
   "description": "simple slack reporter",
-  "main": "simple-slack-reporter.js",
+  "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nhbond/simple-slack-reporter"
+    "url": "https://github.com/nhbond/simple-slack-reporter.git"
   },
   "author": "Nathan Bond",
   "license": "ISC",
