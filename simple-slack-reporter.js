@@ -14,6 +14,7 @@
         });
       }
       runner.once("end", function () {
+        console.log("Slack Message Sent!\n\n");
         slack.send({text: errors});
       });
     }
