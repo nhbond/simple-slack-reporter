@@ -1,6 +1,6 @@
 {
   "name": "simple-slack-reporter",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "simple slack reporter",
   "main": "index.js",
   "repository": {
